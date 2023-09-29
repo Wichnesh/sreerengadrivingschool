@@ -1,4 +1,4 @@
-const urlBase = "https://drivingschoolapi.onrender.com/api/";
+const urlBase = "https://62.72.58.183.3501/api/";
 
 const urllogin = "${urlBase}login";
 const urladdentry = "${urlBase}addworkentry";
